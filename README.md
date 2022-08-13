@@ -1,5 +1,5 @@
 ---
-title: The title3
+title: The title
 slug: readme
 ---
 
